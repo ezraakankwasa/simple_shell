@@ -1,6 +1,6 @@
 # ALX Simple Shell Team Project
 
-> This is an ALX project on creating a simple shell that mimics the Bash shell. My shell is be called **hsh**
+> This is an ALX project on creating a simple shell that mimics the Bash shell. My shell is called **hsh**
 
 ## Project was completed using
 
